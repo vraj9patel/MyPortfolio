@@ -15,43 +15,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Software Programmer</h4>
+                <h5>Credit Card Management Services</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2021 - 2023</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Developed full-stack applications using ASP.NET MVC, C#, and SQL Server. Automated electronic signatures on PDFs with iText/iTextSharp, integrated external APIs (Authorize.net, Adobe Sign, SAP Crystal Reports, TransUnion), created RESTful APIs, and enhanced client debt-management portal for secure balance tracking.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Software Developer</h4>
+                <h5>Medical Data Systems</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2023 - Present</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Designed reporting platform with 12+ dynamic reports for 6,000+ hospitals. Scaled messaging throughput from 2,500 to 12,000-15,000 daily texts. Led real-time payment API development in C# .NET, integrated across 5 systems. Co-developed in-house print engine and AI-powered payment agent API with conversational LLM.
             </p>
           </div>
         </div>
